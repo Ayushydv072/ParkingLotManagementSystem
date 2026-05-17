@@ -113,3 +113,6 @@ First hour is free (base charge only). Each additional started hour is billed. S
 - **Typography**: Segoe UI + Consolas mono
 - **Components**: Custom rounded panels, animated nav buttons, styled tables
 - **Layout**: Sidebar + card-switching main content area
+
+# ParkingLotManagementSystem
+ParkingLotManagementSystem is a Java OOP-based project integrated with JDBC and MySQL to automate parking operations such as vehicle entry/exit management, slot allocation, fee calculation, and record storage through a user-friendly interface.
